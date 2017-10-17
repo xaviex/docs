@@ -40,7 +40,7 @@ translation.priority.ht:
 > [!NOTE]
 >  XML literals and XML axis properties are not supported in declarative code in an ASP.NET page. To use Visual Basic XML features, put your code in a code-behind page in your ASP.NET application.  
   
- ![link to video](../../../../visual-basic/programming-guide/language-features/xml/media/playvideo.gif "PlayVideo") For related video demonstrations, see [How Do I Get Started with LINQ to XML?](http://go.microsoft.com/fwlink/?LinkId=143034) and [How Do I Create Excel Spreadsheets using LINQ to XML?](http://go.microsoft.com/fwlink/?LinkId=143536).  
+ ![link to video](../../../../visual-basic/programming-guide/language-features/xml/media/playvideo.gif "PlayVideo") For related video demonstrations, see [How Do I Get Started with LINQ to XML?](http://msdn.microsoft.com/en-us/vbasic/bb887653.aspx) and [How Do I Create Excel Spreadsheets using LINQ to XML?](http://msdn.microsoft.com/en-us/vbasic/bb927708.aspx).  
   
 ## Creating XML  
  There are two ways to create XML trees in [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)]. You can declare an XML literal directly in code, or you can use the [!INCLUDE[vbteclinq](~/includes/vbteclinq-md.md)] APIs to create the tree. Both processes enable the code to reflect the final structure of the XML tree. For example, the following code example creates an XML element:  

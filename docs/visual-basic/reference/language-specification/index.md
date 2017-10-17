@@ -31,7 +31,7 @@ translation.priority.ht:
 # Visual Basic Language Specification
 The [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] Language Specification is the authoritative source for answers to all questions about [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] grammar and syntax. It contains detailed information about the language, including many points not covered in the [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] reference documentation.  
   
- The specification is available on the [Microsoft Download Center](http://go.microsoft.com/fwlink/?LinkId=188623).  
+ The specification is available on the [Microsoft Download Center](http://www.microsoft.com/downloads/details.aspx?FamilyID=01eee123-f68c-4227-9274-97a13d7cb433&displaylang=en).  
   
 This site contains the [VB 11 specification](../../../../_vblang/spec/introduction.md). It's built from the Markdown files contained in [the dotnet/vblang GitHub repository](https://github.com/dotnet/vblang/blob/master/spec/README.md).
 

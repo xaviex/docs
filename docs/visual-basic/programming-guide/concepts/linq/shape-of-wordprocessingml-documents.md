@@ -94,11 +94,11 @@ End Module
 ```  
   
 ## External Resources  
- [Introducing the Office (2007) Open XML File Formats](http://go.microsoft.com/fwlink/?LinkId=98093)  
+ [Introducing the Office (2007) Open XML File Formats](http://msdn2.microsoft.com/en-us/library/ms406049.aspx)  
   
- [Overview of WordprocessingML](http://go.microsoft.com/fwlink/?LinkId=98094)  
+ [Overview of WordprocessingML](http://msdn2.microsoft.com/en-us/library/aa212812(office.11).aspx)  
   
- [Office 2003: XML Reference Schemas Download page](http://go.microsoft.com/fwlink/?LinkId=98095)  
+ [Office 2003: XML Reference Schemas Download page](http://www.microsoft.com/downloads/details.aspx?FamilyId=FE118952-3547-420A-A412-00A2662442D9&displaylang=en)  
   
 ## See Also  
  [Tutorial: Manipulating Content in a WordprocessingML Document (Visual Basic)](../../../../visual-basic/programming-guide/concepts/linq/tutorial-manipulating-content-in-a-wordprocessingml-document.md)

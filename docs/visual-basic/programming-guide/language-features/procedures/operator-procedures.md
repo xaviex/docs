@@ -99,7 +99,7 @@ An operator procedure is a series of [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)]
   
  [!code-vb[VbVbcnProcedures#24](./codesnippet/VisualBasic/operator-procedures_2.vb)]  
   
- For more information and examples, see [Operator Overloading in Visual Basic 2005](http://go.microsoft.com/fwlink/?LinkId=101703).  
+ For more information and examples, see [Operator Overloading in Visual Basic 2005](http://msdn2.microsoft.com/en-us/library/ms379613(vs.80)).  
   
 ## See Also  
  [Procedures](./index.md)   

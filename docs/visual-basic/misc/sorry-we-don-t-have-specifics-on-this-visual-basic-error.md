@@ -3072,16 +3072,16 @@ translation.priority.mt:
 # Sorry, we don&#39;t have specifics on this Visual Basic error
 We’re sorry, but we don’t have any specific information about this error. You can search for the error number and message text to find information on the web. Or, you can ask other developers using one of these forums:  
   
- [Visual Basic Language](http://go.microsoft.com/fwlink/?LinkId=145963)  
+ [Visual Basic Language](http://social.msdn.microsoft.com/forums/en-US/vblanguage/threads/)  
  Provides a forum for questions about and general discussions of the [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] language syntax and compiler.  
   
- [Visual Basic Interop and Upgrade](http://go.microsoft.com/fwlink/?LinkId=145966)  
+ [Visual Basic Interop and Upgrade](http://social.msdn.microsoft.com/forums/en-US/vbinterop/threads/)  
  Provides a forum for questions about and issues with upgrading to [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] and working with interoperability features.  
   
- [Visual Basic IDE](http://go.microsoft.com/fwlink/?LinkId=145971)  
+ [Visual Basic IDE](http://social.msdn.microsoft.com/forums/en-US/vbide/threads/)  
  Provides a forum for questions about how to work in the [!INCLUDE[vsprvs](~/includes/vsprvs-md.md)] environment.  
   
- [Visual Basic General](http://go.microsoft.com/fwlink/?LinkId=145973)  
+ [Visual Basic General](http://social.msdn.microsoft.com/forums/en-US/vbgeneral/threads/)  
  Provides a forum for questions about and issues with [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] that are not discussed in other forums.  
   
  [StackOverflow](http://stackoverflow.com/questions/tagged/vb.net)  

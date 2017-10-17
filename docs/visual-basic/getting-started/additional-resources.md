@@ -67,18 +67,18 @@ The following web sites provide guidance and can help you find answers to common
   
 |Term|Definition|  
 |----------|----------------|  
-|[Visual Basic Language](http://go.microsoft.com/fwlink/?LinkId=145963)|Discusses the [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] language syntax and compiler.|  
-|[Visual Basic Interop and Upgrade](http://go.microsoft.com/fwlink/?LinkId=145966)|Discusses upgrading to [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] and working with interoperability features.|  
-|[Visual Basic IDE](http://go.microsoft.com/fwlink/?LinkId=145971)|Discusses working in the [!INCLUDE[vsprvs](~/includes/vsprvs-md.md)] integrated development environment.|  
+|[Visual Basic Language](http://social.msdn.microsoft.com/forums/en-US/vblanguage/threads/)|Discusses the [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] language syntax and compiler.|  
+|[Visual Basic Interop and Upgrade](http://social.msdn.microsoft.com/forums/en-US/vbinterop/threads/)|Discusses upgrading to [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] and working with interoperability features.|  
+|[Visual Basic IDE](http://social.msdn.microsoft.com/forums/en-US/vbide/threads/)|Discusses working in the [!INCLUDE[vsprvs](~/includes/vsprvs-md.md)] integrated development environment.|  
 |[Visual Basic Power Packs](http://social.msdn.microsoft.com/Forums/vbpowerpacks/threads)|Discusses the add-ins, controls, components, samples and tools that are part of the Visual Basic Power Packs.|  
-|[Visual Basic General](http://go.microsoft.com/fwlink/?LinkId=145973)|Discusses issues with [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] that are not discussed in other forums.|  
+|[Visual Basic General](http://social.msdn.microsoft.com/forums/en-US/vbgeneral/threads/)|Discusses issues with [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] that are not discussed in other forums.|  
   
 ### Chats and Discussion Groups  
   
 |Term|Definition|  
 |----------|----------------|  
-|[MSDN Discussion Groups](http://go.microsoft.com/fwlink/?LinkId=145961)|Provides a newsgroup experience, allowing you to connect as a community with experts from around the world.|  
-|[MSDN Chats](http://go.microsoft.com/fwlink/?LinkId=145962)|Provides discussions about Microsoft products or technologies. Each chat is hosted by one or more Microsoft experts. Transcripts are available for completed chats.|  
+|[MSDN Discussion Groups](http://msdn.microsoft.com/newsgroups)|Provides a newsgroup experience, allowing you to connect as a community with experts from around the world.|  
+|[MSDN Chats](http://msdn.microsoft.com/chats/)|Provides discussions about Microsoft products or technologies. Each chat is hosted by one or more Microsoft experts. Transcripts are available for completed chats.|  
   
 ### Videos and Webcasts  
   
@@ -99,8 +99,8 @@ The following web sites provide guidance and can help you find answers to common
   
 |Term|Definition|  
 |----------|----------------|  
-|[DevX Visual Basic Zone](http://go.microsoft.com/fwlink/?LinkId=145978)|Provides in-depth technical articles for today's Visual Basic developer.|  
-|[vb.dotnet.technical](http://go.microsoft.com/fwlink/?LinkId=145986)|Provides a forum for discussion of new features in [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] in the DevX forums.|  
+|[DevX Visual Basic Zone](http://www.devx.com/vb)|Provides in-depth technical articles for today's Visual Basic developer.|  
+|[vb.dotnet.technical](http://news.devx.com/)|Provides a forum for discussion of new features in [!INCLUDE[vbprvb](~/includes/vbprvb-md.md)] in the DevX forums.|  
   
 ## See Also  
  [Getting Started](../../visual-basic/getting-started/index.md)   

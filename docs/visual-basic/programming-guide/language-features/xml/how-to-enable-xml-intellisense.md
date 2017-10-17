@@ -48,7 +48,7 @@ XML IntelliSense in Visual Basic provides word completion for elements that are 
   
 [!INCLUDE[note_settings_general](~/includes/note-settings-general-md.md)]  
   
- ![link to video](../../../../visual-basic/programming-guide/language-features/xml/media/playvideo.gif "PlayVideo") For a video version of this topic, see [Video How to: Enable XML IntelliSense in Visual Basic](http://go.microsoft.com/fwlink/?LinkId=102466). For a related video demonstration, see [How Do I Enable XML IntelliSense and Use XML Namespaces?](http://go.microsoft.com/fwlink/?LinkId=143035).  
+ ![link to video](../../../../visual-basic/programming-guide/language-features/xml/media/playvideo.gif "PlayVideo") For a video version of this topic, see [Video How to: Enable XML IntelliSense in Visual Basic](http://msdn.microsoft.com/en-us/library/bb902767.aspx). For a related video demonstration, see [How Do I Enable XML IntelliSense and Use XML Namespaces?](http://msdn.microsoft.com/en-us/vbasic/bb887654.aspx).  
   
 ## Enable XML IntelliSense in Visual Basic  
  If you have an XML file but you do not have an XSD schema file for it, in SP1 you can create an XSD schema file by using the XML to Schema Wizard. You can also use schema inference in the Visual Studio XML Editor.  

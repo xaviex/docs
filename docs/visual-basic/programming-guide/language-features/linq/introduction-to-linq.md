@@ -210,7 +210,7 @@ Language-Integrated Query (LINQ) adds query capabilities to [!INCLUDE[vbprvb](~/
  [How to: Assign stored procedures to perform updates, inserts, and deletes (O/R Designer)](http://msdn.microsoft.com/library/e88224ab-ff61-4a3a-b6b8-6f3694546cac)  
   
 ## Featured Book Chapters  
- [Chapter 17: LINQ](http://go.microsoft.com/fwlink/?LinkId=195277) in [Programming Visual Basic 2008](http://go.microsoft.com/fwlink/?LinkId=195383)  
+ [Chapter 17: LINQ](http://msdn.microsoft.com/en-us/library/orm-9780596518431-01-17.aspx) in [Programming Visual Basic 2008](http://msdn.microsoft.com/en-us/library/orm-9780596518431-01.aspx)  
   
 ## See Also  
  [LINQ (Language-Integrated Query)](http://msdn.microsoft.com/library/a73c4aec-5d15-4e98-b962-1274021ea93d)   

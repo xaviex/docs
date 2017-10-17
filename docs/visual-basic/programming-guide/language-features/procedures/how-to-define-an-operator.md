@@ -56,7 +56,7 @@ If you have defined a class or structure, you can define the behavior of a stand
   
  [!code-vb[VbVbcnProcedures#26](./codesnippet/VisualBasic/how-to-define-an-operator_2.vb)]  
   
- For more information and examples, see [Operator Overloading in Visual Basic 2005](http://go.microsoft.com/fwlink/?LinkId=101703).  
+ For more information and examples, see [Operator Overloading in Visual Basic 2005](http://msdn2.microsoft.com/en-us/library/ms379613(vs.80)).  
   
 ## See Also  
  [Operator Procedures](./operator-procedures.md)   
